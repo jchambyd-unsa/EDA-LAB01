@@ -38,6 +38,7 @@ public class TestExercise2 {
     assertEquals(result, 5);  
   }
 
+  @Test
   public void case_4() {
 
     int a[] = {5, 16, 20, 27, 40, 70, 90};
